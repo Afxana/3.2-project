@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navDashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard"
+        />
+
+    <item
+        android:id="@+id/navNotifications"
+        android:icon="@drawable/owner_notifications"
+        android:title="Notifications"
+        />
+
+    <item
+        android:id="@+id/navAdd"
+        android:icon="@drawable/add"
+        android:title="Add Venue"
+        />
+
+    <item
+        android:id="@+id/navUpdate"
+        android:icon="@drawable/update"
+        android:title="Update Venue"
+        />
+
+    <item
+        android:id="@+id/navDelete"
+        android:icon="@drawable/delete"
+        android:title="Delete "
+        />
+</menu>
